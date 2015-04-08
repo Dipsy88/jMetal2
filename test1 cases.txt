@@ -1,0 +1,8 @@
+Algorithm is AVM
+Case9	Case36	Case39	Case31	Case74	Case40	Case81	Case83	Case57	Case86	Case94	Algorithm is SSGA
+Case6	Case9	Case36	Case39	Case95	Case56	Case87	Case90	Case91	Case47	Case40	Case81	Case83	Case57	Case86	Case94	Algorithm is OpOEA
+Case36	Case39	Case52	Case40	Case57	Case86	Algorithm is RS
+Case6	Case19	Case34	Case36	Case37	Case53	Case98	Case46	Case25	Case87	Case18	Case63	Case77	Case8	Case69	Case11	Case48	Case79	Case17	Case22	Case31	Case0	Case62	Case58	Case67	Case47	Case43	Case40	Case81	Case83	Case29	Case57	Case99	Case86	Case94	Algorithm is GrA
+Case6	Case9	Case34	Case36	
+Best is
+Case36	Case39	Case52	Case40	Case57	Case86	
